@@ -16,6 +16,5 @@
 <img align="center" alt="node.js" src="	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" 
 />
 </div><br/>
-
-Fascinado pela programção e suas linguagems.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+Fascinado pela programção e suas linguagems.
